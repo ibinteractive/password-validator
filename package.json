@@ -1,0 +1,23 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Password validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibinteractive/password-validator.git"
+  },
+  "keywords": [
+    "password",
+    "validatior"
+  ],
+  "author": "ibinteractive",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ibinteractive/password-validator/issues"
+  },
+  "homepage": "https://github.com/ibinteractive/password-validator#readme"
+}
