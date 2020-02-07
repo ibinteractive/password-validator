@@ -1,4 +1,4 @@
-:Welcome to password-validator.
+::PASSWORD-VALIDATOR::
 
 This is a project which helps in validating user given passwords so that it gives feedback 
 about password strength in real time.
